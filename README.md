@@ -3,6 +3,7 @@
 ---
 
 A powerful and intuitive personal desktop assistant built with Python. This assistant combines speech recognition and text-to-speech capabilities to interact with users through voice commands. It can perform various tasks such as managing your schedule, searching the web, playing music, and more, making your daily activities easier and more efficient.
+# Python Version: 3.10.2
 # Note: User should say assistant name (megatron) with every voice command. i.e., "open youtube megatron". User can change assistant's name. By default name is 'Megatron'.
 
 # Features:
