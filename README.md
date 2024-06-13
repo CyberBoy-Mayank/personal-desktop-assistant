@@ -26,7 +26,7 @@ A powerful and intuitive personal desktop assistant built with Python. This assi
 # Usage:
 Run the main script to start the assistant:
 ```bash
-python assistant.py
+python main.py
 ```
 
 ---
