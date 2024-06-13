@@ -15,7 +15,7 @@ A powerful and intuitive personal desktop assistant built with Python. This assi
 # Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/personal-desktop-assistant.git
+   git clone https://github.com/CyberBoy-Mayank/personal-desktop-assistant.git
    cd personal-desktop-assistant
    ```
 2. Install the required libraries:
