@@ -25,7 +25,7 @@ This project implements a personal desktop assistant using Python. The assistant
 
 # Usage
 
-1. Run the desktop assistant script:
+1. Run the main script:
     ```sh
     python main.py
     ```
