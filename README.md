@@ -21,6 +21,7 @@ This project implements a personal desktop assistant using Python. The assistant
     ```sh
     pip install -r requirements.txt
     ```
+    - Extrect *required-folders-files* in your project folder.
 
 # Usage
 
@@ -43,6 +44,9 @@ This project implements a personal desktop assistant using Python. The assistant
 - **Convenience**: Automates routine tasks, saving time and effort.
 - **Interactive**: Provides a natural language interface for a more intuitive user experience.
 - **Extensible**: Can be customized and extended with additional features as needed.
+
+# Note:
+- I'm using **Python Version:** *3.10.2* for this project.
 
 # Contributing
 
