@@ -47,7 +47,7 @@ This project implements a personal desktop assistant using Python. The assistant
 
 # Note:
 - I'm using **Python Version:** *3.10.2* for this project.
-- *personal-desktop-assistant.rar* is a whole project in rar format which consist all the files & folders.
+- *personal-desktop-assistant.rar* is a whole which consist all the files & folders.
 
 # Contributing
 
